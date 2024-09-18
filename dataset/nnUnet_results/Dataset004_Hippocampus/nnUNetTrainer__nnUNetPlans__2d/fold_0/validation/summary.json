@@ -1,0 +1,1388 @@
+{
+    "foreground_mean": {
+        "Dice": 0.8730285495174581,
+        "FN": 205.7019230769231,
+        "FP": 217.9903846153846,
+        "IoU": 0.7771066554562147,
+        "TN": 61635.817307692305,
+        "TP": 1470.7403846153848,
+        "n_pred": 1688.730769230769,
+        "n_ref": 1676.4423076923076
+    },
+    "mean": {
+        "1": {
+            "Dice": 0.8810720655146309,
+            "FN": 204.6346153846154,
+            "FP": 213.40384615384616,
+            "IoU": 0.7898329850815641,
+            "TN": 61553.192307692305,
+            "TP": 1559.0192307692307,
+            "n_pred": 1772.423076923077,
+            "n_ref": 1763.6538461538462
+        },
+        "2": {
+            "Dice": 0.8649850335202853,
+            "FN": 206.76923076923077,
+            "FP": 222.57692307692307,
+            "IoU": 0.7643803258308655,
+            "TN": 61718.442307692305,
+            "TP": 1382.4615384615386,
+            "n_pred": 1605.0384615384614,
+            "n_ref": 1589.2307692307693
+        }
+    },
+    "metric_per_case": [
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9253092293054234,
+                    "FN": 190,
+                    "FP": 124,
+                    "IoU": 0.8610004426737494,
+                    "TN": 51501,
+                    "TP": 1945,
+                    "n_pred": 2069,
+                    "n_ref": 2135
+                },
+                "2": {
+                    "Dice": 0.8911764705882353,
+                    "FN": 131,
+                    "FP": 165,
+                    "IoU": 0.8037135278514589,
+                    "TN": 52252,
+                    "TP": 1212,
+                    "n_pred": 1377,
+                    "n_ref": 1343
+                }
+            },
+            "prediction_file": "D:/nnUNet/dataset/nnUnet_results\\Dataset004_Hippocampus\\nnUNetTrainer__nnUNetPlans__2d\\fold_0\\validation\\hippocampus_017.nii.gz",
+            "reference_file": "D:/nnUNet/dataset/nnUNet_preprocessed\\Dataset004_Hippocampus\\gt_segmentations\\hippocampus_017.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8604651162790697,
+                    "FN": 223,
+                    "FP": 317,
+                    "IoU": 0.7551020408163265,
+                    "TN": 67167,
+                    "TP": 1665,
+                    "n_pred": 1982,
+                    "n_ref": 1888
+                },
+                "2": {
+                    "Dice": 0.8327847267939433,
+                    "FN": 203,
+                    "FP": 305,
+                    "IoU": 0.7134799774393683,
+                    "TN": 67599,
+                    "TP": 1265,
+                    "n_pred": 1570,
+                    "n_ref": 1468
+                }
+            },
+            "prediction_file": "D:/nnUNet/dataset/nnUnet_results\\Dataset004_Hippocampus\\nnUNetTrainer__nnUNetPlans__2d\\fold_0\\validation\\hippocampus_019.nii.gz",
+            "reference_file": "D:/nnUNet/dataset/nnUNet_preprocessed\\Dataset004_Hippocampus\\gt_segmentations\\hippocampus_019.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9173014145810664,
+                    "FN": 169,
+                    "FP": 135,
+                    "IoU": 0.8472361809045226,
+                    "TN": 58202,
+                    "TP": 1686,
+                    "n_pred": 1821,
+                    "n_ref": 1855
+                },
+                "2": {
+                    "Dice": 0.900625,
+                    "FN": 127,
+                    "FP": 191,
+                    "IoU": 0.8192154633314384,
+                    "TN": 58433,
+                    "TP": 1441,
+                    "n_pred": 1632,
+                    "n_ref": 1568
+                }
+            },
+            "prediction_file": "D:/nnUNet/dataset/nnUnet_results\\Dataset004_Hippocampus\\nnUNetTrainer__nnUNetPlans__2d\\fold_0\\validation\\hippocampus_033.nii.gz",
+            "reference_file": "D:/nnUNet/dataset/nnUNet_preprocessed\\Dataset004_Hippocampus\\gt_segmentations\\hippocampus_033.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.898543046357616,
+                    "FN": 171,
+                    "FP": 212,
+                    "IoU": 0.8157768157768158,
+                    "TN": 58786,
+                    "TP": 1696,
+                    "n_pred": 1908,
+                    "n_ref": 1867
+                },
+                "2": {
+                    "Dice": 0.8709996700758825,
+                    "FN": 263,
+                    "FP": 128,
+                    "IoU": 0.7714786674459381,
+                    "TN": 59154,
+                    "TP": 1320,
+                    "n_pred": 1448,
+                    "n_ref": 1583
+                }
+            },
+            "prediction_file": "D:/nnUNet/dataset/nnUnet_results\\Dataset004_Hippocampus\\nnUNetTrainer__nnUNetPlans__2d\\fold_0\\validation\\hippocampus_035.nii.gz",
+            "reference_file": "D:/nnUNet/dataset/nnUNet_preprocessed\\Dataset004_Hippocampus\\gt_segmentations\\hippocampus_035.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8299445471349353,
+                    "FN": 231,
+                    "FP": 321,
+                    "IoU": 0.7093206951026856,
+                    "TN": 53589,
+                    "TP": 1347,
+                    "n_pred": 1668,
+                    "n_ref": 1578
+                },
+                "2": {
+                    "Dice": 0.827521206409048,
+                    "FN": 300,
+                    "FP": 249,
+                    "IoU": 0.7057877813504824,
+                    "TN": 53622,
+                    "TP": 1317,
+                    "n_pred": 1566,
+                    "n_ref": 1617
+                }
+            },
+            "prediction_file": "D:/nnUNet/dataset/nnUnet_results\\Dataset004_Hippocampus\\nnUNetTrainer__nnUNetPlans__2d\\fold_0\\validation\\hippocampus_037.nii.gz",
+            "reference_file": "D:/nnUNet/dataset/nnUNet_preprocessed\\Dataset004_Hippocampus\\gt_segmentations\\hippocampus_037.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8983985297978472,
+                    "FN": 197,
+                    "FP": 190,
+                    "IoU": 0.815538608198284,
+                    "TN": 62162,
+                    "TP": 1711,
+                    "n_pred": 1901,
+                    "n_ref": 1908
+                },
+                "2": {
+                    "Dice": 0.8941647597254004,
+                    "FN": 257,
+                    "FP": 113,
+                    "IoU": 0.8085876875323331,
+                    "TN": 62327,
+                    "TP": 1563,
+                    "n_pred": 1676,
+                    "n_ref": 1820
+                }
+            },
+            "prediction_file": "D:/nnUNet/dataset/nnUnet_results\\Dataset004_Hippocampus\\nnUNetTrainer__nnUNetPlans__2d\\fold_0\\validation\\hippocampus_049.nii.gz",
+            "reference_file": "D:/nnUNet/dataset/nnUNet_preprocessed\\Dataset004_Hippocampus\\gt_segmentations\\hippocampus_049.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8885730528709495,
+                    "FN": 284,
+                    "FP": 108,
+                    "IoU": 0.7994884910485933,
+                    "TN": 68765,
+                    "TP": 1563,
+                    "n_pred": 1671,
+                    "n_ref": 1847
+                },
+                "2": {
+                    "Dice": 0.8907838635618236,
+                    "FN": 156,
+                    "FP": 177,
+                    "IoU": 0.8030751034890597,
+                    "TN": 69029,
+                    "TP": 1358,
+                    "n_pred": 1535,
+                    "n_ref": 1514
+                }
+            },
+            "prediction_file": "D:/nnUNet/dataset/nnUnet_results\\Dataset004_Hippocampus\\nnUNetTrainer__nnUNetPlans__2d\\fold_0\\validation\\hippocampus_052.nii.gz",
+            "reference_file": "D:/nnUNet/dataset/nnUNet_preprocessed\\Dataset004_Hippocampus\\gt_segmentations\\hippocampus_052.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9226023555804823,
+                    "FN": 85,
+                    "FP": 191,
+                    "IoU": 0.8563248308172826,
+                    "TN": 73115,
+                    "TP": 1645,
+                    "n_pred": 1836,
+                    "n_ref": 1730
+                },
+                "2": {
+                    "Dice": 0.9109657947686117,
+                    "FN": 109,
+                    "FP": 245,
+                    "IoU": 0.8364896073903002,
+                    "TN": 72871,
+                    "TP": 1811,
+                    "n_pred": 2056,
+                    "n_ref": 1920
+                }
+            },
+            "prediction_file": "D:/nnUNet/dataset/nnUnet_results\\Dataset004_Hippocampus\\nnUNetTrainer__nnUNetPlans__2d\\fold_0\\validation\\hippocampus_065.nii.gz",
+            "reference_file": "D:/nnUNet/dataset/nnUNet_preprocessed\\Dataset004_Hippocampus\\gt_segmentations\\hippocampus_065.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8998468606431853,
+                    "FN": 181,
+                    "FP": 146,
+                    "IoU": 0.8179287305122495,
+                    "TN": 61696,
+                    "TP": 1469,
+                    "n_pred": 1615,
+                    "n_ref": 1650
+                },
+                "2": {
+                    "Dice": 0.899969960949234,
+                    "FN": 223,
+                    "FP": 110,
+                    "IoU": 0.8181321682140906,
+                    "TN": 61661,
+                    "TP": 1498,
+                    "n_pred": 1608,
+                    "n_ref": 1721
+                }
+            },
+            "prediction_file": "D:/nnUNet/dataset/nnUnet_results\\Dataset004_Hippocampus\\nnUNetTrainer__nnUNetPlans__2d\\fold_0\\validation\\hippocampus_083.nii.gz",
+            "reference_file": "D:/nnUNet/dataset/nnUNet_preprocessed\\Dataset004_Hippocampus\\gt_segmentations\\hippocampus_083.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9052532833020638,
+                    "FN": 180,
+                    "FP": 224,
+                    "IoU": 0.8269065981148244,
+                    "TN": 70466,
+                    "TP": 1930,
+                    "n_pred": 2154,
+                    "n_ref": 2110
+                },
+                "2": {
+                    "Dice": 0.866045428072219,
+                    "FN": 281,
+                    "FP": 179,
+                    "IoU": 0.7637390857729841,
+                    "TN": 70853,
+                    "TP": 1487,
+                    "n_pred": 1666,
+                    "n_ref": 1768
+                }
+            },
+            "prediction_file": "D:/nnUNet/dataset/nnUnet_results\\Dataset004_Hippocampus\\nnUNetTrainer__nnUNetPlans__2d\\fold_0\\validation\\hippocampus_088.nii.gz",
+            "reference_file": "D:/nnUNet/dataset/nnUNet_preprocessed\\Dataset004_Hippocampus\\gt_segmentations\\hippocampus_088.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9037378392217101,
+                    "FN": 279,
+                    "FP": 97,
+                    "IoU": 0.8243811303129379,
+                    "TN": 71859,
+                    "TP": 1765,
+                    "n_pred": 1862,
+                    "n_ref": 2044
+                },
+                "2": {
+                    "Dice": 0.8815357413488255,
+                    "FN": 212,
+                    "FP": 257,
+                    "IoU": 0.7881662149954833,
+                    "TN": 71786,
+                    "TP": 1745,
+                    "n_pred": 2002,
+                    "n_ref": 1957
+                }
+            },
+            "prediction_file": "D:/nnUNet/dataset/nnUnet_results\\Dataset004_Hippocampus\\nnUNetTrainer__nnUNetPlans__2d\\fold_0\\validation\\hippocampus_090.nii.gz",
+            "reference_file": "D:/nnUNet/dataset/nnUNet_preprocessed\\Dataset004_Hippocampus\\gt_segmentations\\hippocampus_090.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9160254265640683,
+                    "FN": 119,
+                    "FP": 132,
+                    "IoU": 0.8450617283950618,
+                    "TN": 50516,
+                    "TP": 1369,
+                    "n_pred": 1501,
+                    "n_ref": 1488
+                },
+                "2": {
+                    "Dice": 0.8902183667364643,
+                    "FN": 166,
+                    "FP": 201,
+                    "IoU": 0.8021563342318059,
+                    "TN": 50281,
+                    "TP": 1488,
+                    "n_pred": 1689,
+                    "n_ref": 1654
+                }
+            },
+            "prediction_file": "D:/nnUNet/dataset/nnUnet_results\\Dataset004_Hippocampus\\nnUNetTrainer__nnUNetPlans__2d\\fold_0\\validation\\hippocampus_092.nii.gz",
+            "reference_file": "D:/nnUNet/dataset/nnUNet_preprocessed\\Dataset004_Hippocampus\\gt_segmentations\\hippocampus_092.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9048615957199349,
+                    "FN": 246,
+                    "FP": 163,
+                    "IoU": 0.8262531860662702,
+                    "TN": 62620,
+                    "TP": 1945,
+                    "n_pred": 2108,
+                    "n_ref": 2191
+                },
+                "2": {
+                    "Dice": 0.8790523690773068,
+                    "FN": 184,
+                    "FP": 204,
+                    "IoU": 0.7842046718576196,
+                    "TN": 63176,
+                    "TP": 1410,
+                    "n_pred": 1614,
+                    "n_ref": 1594
+                }
+            },
+            "prediction_file": "D:/nnUNet/dataset/nnUnet_results\\Dataset004_Hippocampus\\nnUNetTrainer__nnUNetPlans__2d\\fold_0\\validation\\hippocampus_095.nii.gz",
+            "reference_file": "D:/nnUNet/dataset/nnUNet_preprocessed\\Dataset004_Hippocampus\\gt_segmentations\\hippocampus_095.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9018087855297158,
+                    "FN": 166,
+                    "FP": 214,
+                    "IoU": 0.8211764705882353,
+                    "TN": 63325,
+                    "TP": 1745,
+                    "n_pred": 1959,
+                    "n_ref": 1911
+                },
+                "2": {
+                    "Dice": 0.8822614107883817,
+                    "FN": 334,
+                    "FP": 120,
+                    "IoU": 0.7893271461716937,
+                    "TN": 63295,
+                    "TP": 1701,
+                    "n_pred": 1821,
+                    "n_ref": 2035
+                }
+            },
+            "prediction_file": "D:/nnUNet/dataset/nnUnet_results\\Dataset004_Hippocampus\\nnUNetTrainer__nnUNetPlans__2d\\fold_0\\validation\\hippocampus_107.nii.gz",
+            "reference_file": "D:/nnUNet/dataset/nnUNet_preprocessed\\Dataset004_Hippocampus\\gt_segmentations\\hippocampus_107.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9131548311990687,
+                    "FN": 98,
+                    "FP": 275,
+                    "IoU": 0.8401885175664096,
+                    "TN": 68262,
+                    "TP": 1961,
+                    "n_pred": 2236,
+                    "n_ref": 2059
+                },
+                "2": {
+                    "Dice": 0.8963083604777415,
+                    "FN": 230,
+                    "FP": 152,
+                    "IoU": 0.8121003443187408,
+                    "TN": 68563,
+                    "TP": 1651,
+                    "n_pred": 1803,
+                    "n_ref": 1881
+                }
+            },
+            "prediction_file": "D:/nnUNet/dataset/nnUnet_results\\Dataset004_Hippocampus\\nnUNetTrainer__nnUNetPlans__2d\\fold_0\\validation\\hippocampus_108.nii.gz",
+            "reference_file": "D:/nnUNet/dataset/nnUNet_preprocessed\\Dataset004_Hippocampus\\gt_segmentations\\hippocampus_108.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8950542822677925,
+                    "FN": 228,
+                    "FP": 120,
+                    "IoU": 0.8100436681222707,
+                    "TN": 62616,
+                    "TP": 1484,
+                    "n_pred": 1604,
+                    "n_ref": 1712
+                },
+                "2": {
+                    "Dice": 0.9078476066427874,
+                    "FN": 123,
+                    "FP": 160,
+                    "IoU": 0.8312462731067383,
+                    "TN": 62771,
+                    "TP": 1394,
+                    "n_pred": 1554,
+                    "n_ref": 1517
+                }
+            },
+            "prediction_file": "D:/nnUNet/dataset/nnUnet_results\\Dataset004_Hippocampus\\nnUNetTrainer__nnUNetPlans__2d\\fold_0\\validation\\hippocampus_123.nii.gz",
+            "reference_file": "D:/nnUNet/dataset/nnUNet_preprocessed\\Dataset004_Hippocampus\\gt_segmentations\\hippocampus_123.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8864764267990074,
+                    "FN": 228,
+                    "FP": 138,
+                    "IoU": 0.796100278551532,
+                    "TN": 68639,
+                    "TP": 1429,
+                    "n_pred": 1567,
+                    "n_ref": 1657
+                },
+                "2": {
+                    "Dice": 0.8561118628777628,
+                    "FN": 120,
+                    "FP": 199,
+                    "IoU": 0.748422712933754,
+                    "TN": 69166,
+                    "TP": 949,
+                    "n_pred": 1148,
+                    "n_ref": 1069
+                }
+            },
+            "prediction_file": "D:/nnUNet/dataset/nnUnet_results\\Dataset004_Hippocampus\\nnUNetTrainer__nnUNetPlans__2d\\fold_0\\validation\\hippocampus_125.nii.gz",
+            "reference_file": "D:/nnUNet/dataset/nnUNet_preprocessed\\Dataset004_Hippocampus\\gt_segmentations\\hippocampus_125.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8883689839572193,
+                    "FN": 115,
+                    "FP": 219,
+                    "IoU": 0.7991581479254359,
+                    "TN": 62597,
+                    "TP": 1329,
+                    "n_pred": 1548,
+                    "n_ref": 1444
+                },
+                "2": {
+                    "Dice": 0.8803672697812585,
+                    "FN": 278,
+                    "FP": 165,
+                    "IoU": 0.7863000482392668,
+                    "TN": 62187,
+                    "TP": 1630,
+                    "n_pred": 1795,
+                    "n_ref": 1908
+                }
+            },
+            "prediction_file": "D:/nnUNet/dataset/nnUnet_results\\Dataset004_Hippocampus\\nnUNetTrainer__nnUNetPlans__2d\\fold_0\\validation\\hippocampus_157.nii.gz",
+            "reference_file": "D:/nnUNet/dataset/nnUNet_preprocessed\\Dataset004_Hippocampus\\gt_segmentations\\hippocampus_157.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7597418120965814,
+                    "FN": 111,
+                    "FP": 894,
+                    "IoU": 0.612567463377024,
+                    "TN": 89902,
+                    "TP": 1589,
+                    "n_pred": 2483,
+                    "n_ref": 1700
+                },
+                "2": {
+                    "Dice": 0.755868544600939,
+                    "FN": 720,
+                    "FP": 216,
+                    "IoU": 0.6075471698113207,
+                    "TN": 90111,
+                    "TP": 1449,
+                    "n_pred": 1665,
+                    "n_ref": 2169
+                }
+            },
+            "prediction_file": "D:/nnUNet/dataset/nnUnet_results\\Dataset004_Hippocampus\\nnUNetTrainer__nnUNetPlans__2d\\fold_0\\validation\\hippocampus_164.nii.gz",
+            "reference_file": "D:/nnUNet/dataset/nnUNet_preprocessed\\Dataset004_Hippocampus\\gt_segmentations\\hippocampus_164.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.900990099009901,
+                    "FN": 89,
+                    "FP": 191,
+                    "IoU": 0.8198198198198198,
+                    "TN": 61626,
+                    "TP": 1274,
+                    "n_pred": 1465,
+                    "n_ref": 1363
+                },
+                "2": {
+                    "Dice": 0.8745917700849118,
+                    "FN": 157,
+                    "FP": 227,
+                    "IoU": 0.7771329077190946,
+                    "TN": 61457,
+                    "TP": 1339,
+                    "n_pred": 1566,
+                    "n_ref": 1496
+                }
+            },
+            "prediction_file": "D:/nnUNet/dataset/nnUnet_results\\Dataset004_Hippocampus\\nnUNetTrainer__nnUNetPlans__2d\\fold_0\\validation\\hippocampus_169.nii.gz",
+            "reference_file": "D:/nnUNet/dataset/nnUNet_preprocessed\\Dataset004_Hippocampus\\gt_segmentations\\hippocampus_169.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8984867591424969,
+                    "FN": 150,
+                    "FP": 172,
+                    "IoU": 0.815684029765312,
+                    "TN": 52538,
+                    "TP": 1425,
+                    "n_pred": 1597,
+                    "n_ref": 1575
+                },
+                "2": {
+                    "Dice": 0.8863826232247285,
+                    "FN": 103,
+                    "FP": 169,
+                    "IoU": 0.7959489872468117,
+                    "TN": 52952,
+                    "TP": 1061,
+                    "n_pred": 1230,
+                    "n_ref": 1164
+                }
+            },
+            "prediction_file": "D:/nnUNet/dataset/nnUnet_results\\Dataset004_Hippocampus\\nnUNetTrainer__nnUNetPlans__2d\\fold_0\\validation\\hippocampus_175.nii.gz",
+            "reference_file": "D:/nnUNet/dataset/nnUNet_preprocessed\\Dataset004_Hippocampus\\gt_segmentations\\hippocampus_175.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9165329052969502,
+                    "FN": 128,
+                    "FP": 184,
+                    "IoU": 0.845925925925926,
+                    "TN": 54570,
+                    "TP": 1713,
+                    "n_pred": 1897,
+                    "n_ref": 1841
+                },
+                "2": {
+                    "Dice": 0.8820814099874108,
+                    "FN": 221,
+                    "FP": 60,
+                    "IoU": 0.789039039039039,
+                    "TN": 55263,
+                    "TP": 1051,
+                    "n_pred": 1111,
+                    "n_ref": 1272
+                }
+            },
+            "prediction_file": "D:/nnUNet/dataset/nnUnet_results\\Dataset004_Hippocampus\\nnUNetTrainer__nnUNetPlans__2d\\fold_0\\validation\\hippocampus_185.nii.gz",
+            "reference_file": "D:/nnUNet/dataset/nnUNet_preprocessed\\Dataset004_Hippocampus\\gt_segmentations\\hippocampus_185.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8998200359928015,
+                    "FN": 165,
+                    "FP": 169,
+                    "IoU": 0.8178844056706652,
+                    "TN": 55886,
+                    "TP": 1500,
+                    "n_pred": 1669,
+                    "n_ref": 1665
+                },
+                "2": {
+                    "Dice": 0.8787878787878788,
+                    "FN": 78,
+                    "FP": 354,
+                    "IoU": 0.7837837837837838,
+                    "TN": 55722,
+                    "TP": 1566,
+                    "n_pred": 1920,
+                    "n_ref": 1644
+                }
+            },
+            "prediction_file": "D:/nnUNet/dataset/nnUnet_results\\Dataset004_Hippocampus\\nnUNetTrainer__nnUNetPlans__2d\\fold_0\\validation\\hippocampus_190.nii.gz",
+            "reference_file": "D:/nnUNet/dataset/nnUNet_preprocessed\\Dataset004_Hippocampus\\gt_segmentations\\hippocampus_190.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.908494349252643,
+                    "FN": 115,
+                    "FP": 136,
+                    "IoU": 0.8323313293253173,
+                    "TN": 51003,
+                    "TP": 1246,
+                    "n_pred": 1382,
+                    "n_ref": 1361
+                },
+                "2": {
+                    "Dice": 0.8964169381107492,
+                    "FN": 157,
+                    "FP": 161,
+                    "IoU": 0.8122786304604487,
+                    "TN": 50806,
+                    "TP": 1376,
+                    "n_pred": 1537,
+                    "n_ref": 1533
+                }
+            },
+            "prediction_file": "D:/nnUNet/dataset/nnUnet_results\\Dataset004_Hippocampus\\nnUNetTrainer__nnUNetPlans__2d\\fold_0\\validation\\hippocampus_194.nii.gz",
+            "reference_file": "D:/nnUNet/dataset/nnUNet_preprocessed\\Dataset004_Hippocampus\\gt_segmentations\\hippocampus_194.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9008695652173913,
+                    "FN": 88,
+                    "FP": 254,
+                    "IoU": 0.819620253164557,
+                    "TN": 65496,
+                    "TP": 1554,
+                    "n_pred": 1808,
+                    "n_ref": 1642
+                },
+                "2": {
+                    "Dice": 0.895177361498605,
+                    "FN": 108,
+                    "FP": 155,
+                    "IoU": 0.8102453102453102,
+                    "TN": 66006,
+                    "TP": 1123,
+                    "n_pred": 1278,
+                    "n_ref": 1231
+                }
+            },
+            "prediction_file": "D:/nnUNet/dataset/nnUnet_results\\Dataset004_Hippocampus\\nnUNetTrainer__nnUNetPlans__2d\\fold_0\\validation\\hippocampus_204.nii.gz",
+            "reference_file": "D:/nnUNet/dataset/nnUNet_preprocessed\\Dataset004_Hippocampus\\gt_segmentations\\hippocampus_204.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.866464339908953,
+                    "FN": 172,
+                    "FP": 180,
+                    "IoU": 0.7643908969210174,
+                    "TN": 46634,
+                    "TP": 1142,
+                    "n_pred": 1322,
+                    "n_ref": 1314
+                },
+                "2": {
+                    "Dice": 0.8959435626102292,
+                    "FN": 120,
+                    "FP": 175,
+                    "IoU": 0.8115015974440895,
+                    "TN": 46563,
+                    "TP": 1270,
+                    "n_pred": 1445,
+                    "n_ref": 1390
+                }
+            },
+            "prediction_file": "D:/nnUNet/dataset/nnUnet_results\\Dataset004_Hippocampus\\nnUNetTrainer__nnUNetPlans__2d\\fold_0\\validation\\hippocampus_205.nii.gz",
+            "reference_file": "D:/nnUNet/dataset/nnUNet_preprocessed\\Dataset004_Hippocampus\\gt_segmentations\\hippocampus_205.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.924179104477612,
+                    "FN": 93,
+                    "FP": 161,
+                    "IoU": 0.8590455049944506,
+                    "TN": 63478,
+                    "TP": 1548,
+                    "n_pred": 1709,
+                    "n_ref": 1641
+                },
+                "2": {
+                    "Dice": 0.904983865184654,
+                    "FN": 92,
+                    "FP": 173,
+                    "IoU": 0.8264571054354944,
+                    "TN": 63753,
+                    "TP": 1262,
+                    "n_pred": 1435,
+                    "n_ref": 1354
+                }
+            },
+            "prediction_file": "D:/nnUNet/dataset/nnUnet_results\\Dataset004_Hippocampus\\nnUNetTrainer__nnUNetPlans__2d\\fold_0\\validation\\hippocampus_210.nii.gz",
+            "reference_file": "D:/nnUNet/dataset/nnUNet_preprocessed\\Dataset004_Hippocampus\\gt_segmentations\\hippocampus_210.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8571428571428571,
+                    "FN": 415,
+                    "FP": 120,
+                    "IoU": 0.75,
+                    "TN": 52238,
+                    "TP": 1605,
+                    "n_pred": 1725,
+                    "n_ref": 2020
+                },
+                "2": {
+                    "Dice": 0.8277752398355414,
+                    "FN": 176,
+                    "FP": 201,
+                    "IoU": 0.7061574434918161,
+                    "TN": 53095,
+                    "TP": 906,
+                    "n_pred": 1107,
+                    "n_ref": 1082
+                }
+            },
+            "prediction_file": "D:/nnUNet/dataset/nnUnet_results\\Dataset004_Hippocampus\\nnUNetTrainer__nnUNetPlans__2d\\fold_0\\validation\\hippocampus_217.nii.gz",
+            "reference_file": "D:/nnUNet/dataset/nnUNet_preprocessed\\Dataset004_Hippocampus\\gt_segmentations\\hippocampus_217.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8941548183254344,
+                    "FN": 123,
+                    "FP": 212,
+                    "IoU": 0.8085714285714286,
+                    "TN": 63185,
+                    "TP": 1415,
+                    "n_pred": 1627,
+                    "n_ref": 1538
+                },
+                "2": {
+                    "Dice": 0.8488964346349746,
+                    "FN": 292,
+                    "FP": 64,
+                    "IoU": 0.7374631268436578,
+                    "TN": 63579,
+                    "TP": 1000,
+                    "n_pred": 1064,
+                    "n_ref": 1292
+                }
+            },
+            "prediction_file": "D:/nnUNet/dataset/nnUnet_results\\Dataset004_Hippocampus\\nnUNetTrainer__nnUNetPlans__2d\\fold_0\\validation\\hippocampus_219.nii.gz",
+            "reference_file": "D:/nnUNet/dataset/nnUNet_preprocessed\\Dataset004_Hippocampus\\gt_segmentations\\hippocampus_219.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9274594236502153,
+                    "FN": 58,
+                    "FP": 161,
+                    "IoU": 0.8647313156269302,
+                    "TN": 56131,
+                    "TP": 1400,
+                    "n_pred": 1561,
+                    "n_ref": 1458
+                },
+                "2": {
+                    "Dice": 0.9193267556587348,
+                    "FN": 135,
+                    "FP": 143,
+                    "IoU": 0.8506981740064447,
+                    "TN": 55888,
+                    "TP": 1584,
+                    "n_pred": 1727,
+                    "n_ref": 1719
+                }
+            },
+            "prediction_file": "D:/nnUNet/dataset/nnUnet_results\\Dataset004_Hippocampus\\nnUNetTrainer__nnUNetPlans__2d\\fold_0\\validation\\hippocampus_229.nii.gz",
+            "reference_file": "D:/nnUNet/dataset/nnUNet_preprocessed\\Dataset004_Hippocampus\\gt_segmentations\\hippocampus_229.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8029115341545353,
+                    "FN": 263,
+                    "FP": 441,
+                    "IoU": 0.6707202993451824,
+                    "TN": 58282,
+                    "TP": 1434,
+                    "n_pred": 1875,
+                    "n_ref": 1697
+                },
+                "2": {
+                    "Dice": 0.7994987468671679,
+                    "FN": 235,
+                    "FP": 405,
+                    "IoU": 0.6659707724425887,
+                    "TN": 58504,
+                    "TP": 1276,
+                    "n_pred": 1681,
+                    "n_ref": 1511
+                }
+            },
+            "prediction_file": "D:/nnUNet/dataset/nnUnet_results\\Dataset004_Hippocampus\\nnUNetTrainer__nnUNetPlans__2d\\fold_0\\validation\\hippocampus_244.nii.gz",
+            "reference_file": "D:/nnUNet/dataset/nnUNet_preprocessed\\Dataset004_Hippocampus\\gt_segmentations\\hippocampus_244.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8288590604026845,
+                    "FN": 423,
+                    "FP": 393,
+                    "IoU": 0.7077363896848138,
+                    "TN": 66112,
+                    "TP": 1976,
+                    "n_pred": 2369,
+                    "n_ref": 2399
+                },
+                "2": {
+                    "Dice": 0.8125,
+                    "FN": 203,
+                    "FP": 475,
+                    "IoU": 0.6842105263157895,
+                    "TN": 66757,
+                    "TP": 1469,
+                    "n_pred": 1944,
+                    "n_ref": 1672
+                }
+            },
+            "prediction_file": "D:/nnUNet/dataset/nnUnet_results\\Dataset004_Hippocampus\\nnUNetTrainer__nnUNetPlans__2d\\fold_0\\validation\\hippocampus_261.nii.gz",
+            "reference_file": "D:/nnUNet/dataset/nnUNet_preprocessed\\Dataset004_Hippocampus\\gt_segmentations\\hippocampus_261.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9090428344791116,
+                    "FN": 215,
+                    "FP": 129,
+                    "IoU": 0.8332525448376151,
+                    "TN": 69643,
+                    "TP": 1719,
+                    "n_pred": 1848,
+                    "n_ref": 1934
+                },
+                "2": {
+                    "Dice": 0.8849156383782423,
+                    "FN": 151,
+                    "FP": 306,
+                    "IoU": 0.7935862691960253,
+                    "TN": 69492,
+                    "TP": 1757,
+                    "n_pred": 2063,
+                    "n_ref": 1908
+                }
+            },
+            "prediction_file": "D:/nnUNet/dataset/nnUnet_results\\Dataset004_Hippocampus\\nnUNetTrainer__nnUNetPlans__2d\\fold_0\\validation\\hippocampus_264.nii.gz",
+            "reference_file": "D:/nnUNet/dataset/nnUNet_preprocessed\\Dataset004_Hippocampus\\gt_segmentations\\hippocampus_264.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9083333333333333,
+                    "FN": 169,
+                    "FP": 139,
+                    "IoU": 0.8320610687022901,
+                    "TN": 54629,
+                    "TP": 1526,
+                    "n_pred": 1665,
+                    "n_ref": 1695
+                },
+                "2": {
+                    "Dice": 0.9032453745829542,
+                    "FN": 120,
+                    "FP": 199,
+                    "IoU": 0.8235619469026548,
+                    "TN": 54655,
+                    "TP": 1489,
+                    "n_pred": 1688,
+                    "n_ref": 1609
+                }
+            },
+            "prediction_file": "D:/nnUNet/dataset/nnUnet_results\\Dataset004_Hippocampus\\nnUNetTrainer__nnUNetPlans__2d\\fold_0\\validation\\hippocampus_277.nii.gz",
+            "reference_file": "D:/nnUNet/dataset/nnUNet_preprocessed\\Dataset004_Hippocampus\\gt_segmentations\\hippocampus_277.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7643797643797644,
+                    "FN": 264,
+                    "FP": 416,
+                    "IoU": 0.6186203028603477,
+                    "TN": 53865,
+                    "TP": 1103,
+                    "n_pred": 1519,
+                    "n_ref": 1367
+                },
+                "2": {
+                    "Dice": 0.8029386343993086,
+                    "FN": 317,
+                    "FP": 139,
+                    "IoU": 0.6707581227436823,
+                    "TN": 54263,
+                    "TP": 929,
+                    "n_pred": 1068,
+                    "n_ref": 1246
+                }
+            },
+            "prediction_file": "D:/nnUNet/dataset/nnUnet_results\\Dataset004_Hippocampus\\nnUNetTrainer__nnUNetPlans__2d\\fold_0\\validation\\hippocampus_280.nii.gz",
+            "reference_file": "D:/nnUNet/dataset/nnUNet_preprocessed\\Dataset004_Hippocampus\\gt_segmentations\\hippocampus_280.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9105279797660449,
+                    "FN": 122,
+                    "FP": 161,
+                    "IoU": 0.8357515960533952,
+                    "TN": 74867,
+                    "TP": 1440,
+                    "n_pred": 1601,
+                    "n_ref": 1562
+                },
+                "2": {
+                    "Dice": 0.8821114369501466,
+                    "FN": 106,
+                    "FP": 296,
+                    "IoU": 0.789087093389297,
+                    "TN": 74684,
+                    "TP": 1504,
+                    "n_pred": 1800,
+                    "n_ref": 1610
+                }
+            },
+            "prediction_file": "D:/nnUNet/dataset/nnUnet_results\\Dataset004_Hippocampus\\nnUNetTrainer__nnUNetPlans__2d\\fold_0\\validation\\hippocampus_286.nii.gz",
+            "reference_file": "D:/nnUNet/dataset/nnUNet_preprocessed\\Dataset004_Hippocampus\\gt_segmentations\\hippocampus_286.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8972363831499865,
+                    "FN": 178,
+                    "FP": 205,
+                    "IoU": 0.813625304136253,
+                    "TN": 77745,
+                    "TP": 1672,
+                    "n_pred": 1877,
+                    "n_ref": 1850
+                },
+                "2": {
+                    "Dice": 0.8733350744319666,
+                    "FN": 323,
+                    "FP": 162,
+                    "IoU": 0.775150672229949,
+                    "TN": 77643,
+                    "TP": 1672,
+                    "n_pred": 1834,
+                    "n_ref": 1995
+                }
+            },
+            "prediction_file": "D:/nnUNet/dataset/nnUnet_results\\Dataset004_Hippocampus\\nnUNetTrainer__nnUNetPlans__2d\\fold_0\\validation\\hippocampus_288.nii.gz",
+            "reference_file": "D:/nnUNet/dataset/nnUNet_preprocessed\\Dataset004_Hippocampus\\gt_segmentations\\hippocampus_288.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8729569093610698,
+                    "FN": 107,
+                    "FP": 235,
+                    "IoU": 0.7745550428477258,
+                    "TN": 60223,
+                    "TP": 1175,
+                    "n_pred": 1410,
+                    "n_ref": 1282
+                },
+                "2": {
+                    "Dice": 0.85132123527539,
+                    "FN": 119,
+                    "FP": 348,
+                    "IoU": 0.741130820399113,
+                    "TN": 59936,
+                    "TP": 1337,
+                    "n_pred": 1685,
+                    "n_ref": 1456
+                }
+            },
+            "prediction_file": "D:/nnUNet/dataset/nnUnet_results\\Dataset004_Hippocampus\\nnUNetTrainer__nnUNetPlans__2d\\fold_0\\validation\\hippocampus_289.nii.gz",
+            "reference_file": "D:/nnUNet/dataset/nnUNet_preprocessed\\Dataset004_Hippocampus\\gt_segmentations\\hippocampus_289.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8794977058681478,
+                    "FN": 277,
+                    "FP": 222,
+                    "IoU": 0.7849137931034482,
+                    "TN": 63830,
+                    "TP": 1821,
+                    "n_pred": 2043,
+                    "n_ref": 2098
+                },
+                "2": {
+                    "Dice": 0.8451303885045237,
+                    "FN": 232,
+                    "FP": 350,
+                    "IoU": 0.7317972350230415,
+                    "TN": 63980,
+                    "TP": 1588,
+                    "n_pred": 1938,
+                    "n_ref": 1820
+                }
+            },
+            "prediction_file": "D:/nnUNet/dataset/nnUnet_results\\Dataset004_Hippocampus\\nnUNetTrainer__nnUNetPlans__2d\\fold_0\\validation\\hippocampus_296.nii.gz",
+            "reference_file": "D:/nnUNet/dataset/nnUNet_preprocessed\\Dataset004_Hippocampus\\gt_segmentations\\hippocampus_296.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8404888749608274,
+                    "FN": 308,
+                    "FP": 201,
+                    "IoU": 0.7248648648648649,
+                    "TN": 48130,
+                    "TP": 1341,
+                    "n_pred": 1542,
+                    "n_ref": 1649
+                },
+                "2": {
+                    "Dice": 0.8014869888475836,
+                    "FN": 302,
+                    "FP": 232,
+                    "IoU": 0.6687344913151365,
+                    "TN": 48368,
+                    "TP": 1078,
+                    "n_pred": 1310,
+                    "n_ref": 1380
+                }
+            },
+            "prediction_file": "D:/nnUNet/dataset/nnUnet_results\\Dataset004_Hippocampus\\nnUNetTrainer__nnUNetPlans__2d\\fold_0\\validation\\hippocampus_305.nii.gz",
+            "reference_file": "D:/nnUNet/dataset/nnUNet_preprocessed\\Dataset004_Hippocampus\\gt_segmentations\\hippocampus_305.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9335310106251544,
+                    "FN": 122,
+                    "FP": 147,
+                    "IoU": 0.8753475440222428,
+                    "TN": 70802,
+                    "TP": 1889,
+                    "n_pred": 2036,
+                    "n_ref": 2011
+                },
+                "2": {
+                    "Dice": 0.9112135176651306,
+                    "FN": 160,
+                    "FP": 129,
+                    "IoU": 0.8369074492099323,
+                    "TN": 71188,
+                    "TP": 1483,
+                    "n_pred": 1612,
+                    "n_ref": 1643
+                }
+            },
+            "prediction_file": "D:/nnUNet/dataset/nnUnet_results\\Dataset004_Hippocampus\\nnUNetTrainer__nnUNetPlans__2d\\fold_0\\validation\\hippocampus_308.nii.gz",
+            "reference_file": "D:/nnUNet/dataset/nnUNet_preprocessed\\Dataset004_Hippocampus\\gt_segmentations\\hippocampus_308.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8167318687932591,
+                    "FN": 299,
+                    "FP": 310,
+                    "IoU": 0.6902339776195321,
+                    "TN": 55256,
+                    "TP": 1357,
+                    "n_pred": 1667,
+                    "n_ref": 1656
+                },
+                "2": {
+                    "Dice": 0.8267062314540059,
+                    "FN": 236,
+                    "FP": 348,
+                    "IoU": 0.7046029337379869,
+                    "TN": 55245,
+                    "TP": 1393,
+                    "n_pred": 1741,
+                    "n_ref": 1629
+                }
+            },
+            "prediction_file": "D:/nnUNet/dataset/nnUnet_results\\Dataset004_Hippocampus\\nnUNetTrainer__nnUNetPlans__2d\\fold_0\\validation\\hippocampus_317.nii.gz",
+            "reference_file": "D:/nnUNet/dataset/nnUNet_preprocessed\\Dataset004_Hippocampus\\gt_segmentations\\hippocampus_317.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9047736829087312,
+                    "FN": 263,
+                    "FP": 122,
+                    "IoU": 0.8261065943992774,
+                    "TN": 50274,
+                    "TP": 1829,
+                    "n_pred": 1951,
+                    "n_ref": 2092
+                },
+                "2": {
+                    "Dice": 0.891832229580574,
+                    "FN": 137,
+                    "FP": 206,
+                    "IoU": 0.8047808764940239,
+                    "TN": 50731,
+                    "TP": 1414,
+                    "n_pred": 1620,
+                    "n_ref": 1551
+                }
+            },
+            "prediction_file": "D:/nnUNet/dataset/nnUnet_results\\Dataset004_Hippocampus\\nnUNetTrainer__nnUNetPlans__2d\\fold_0\\validation\\hippocampus_327.nii.gz",
+            "reference_file": "D:/nnUNet/dataset/nnUNet_preprocessed\\Dataset004_Hippocampus\\gt_segmentations\\hippocampus_327.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7990610328638498,
+                    "FN": 530,
+                    "FP": 326,
+                    "IoU": 0.6653635652853792,
+                    "TN": 60967,
+                    "TP": 1702,
+                    "n_pred": 2028,
+                    "n_ref": 2232
+                },
+                "2": {
+                    "Dice": 0.7183386955250073,
+                    "FN": 537,
+                    "FP": 426,
+                    "IoU": 0.5604746691008672,
+                    "TN": 61334,
+                    "TP": 1228,
+                    "n_pred": 1654,
+                    "n_ref": 1765
+                }
+            },
+            "prediction_file": "D:/nnUNet/dataset/nnUnet_results\\Dataset004_Hippocampus\\nnUNetTrainer__nnUNetPlans__2d\\fold_0\\validation\\hippocampus_330.nii.gz",
+            "reference_file": "D:/nnUNet/dataset/nnUNet_preprocessed\\Dataset004_Hippocampus\\gt_segmentations\\hippocampus_330.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8831615120274914,
+                    "FN": 261,
+                    "FP": 147,
+                    "IoU": 0.7907692307692308,
+                    "TN": 58110,
+                    "TP": 1542,
+                    "n_pred": 1689,
+                    "n_ref": 1803
+                },
+                "2": {
+                    "Dice": 0.8534428300694883,
+                    "FN": 173,
+                    "FP": 291,
+                    "IoU": 0.7443526170798898,
+                    "TN": 58245,
+                    "TP": 1351,
+                    "n_pred": 1642,
+                    "n_ref": 1524
+                }
+            },
+            "prediction_file": "D:/nnUNet/dataset/nnUnet_results\\Dataset004_Hippocampus\\nnUNetTrainer__nnUNetPlans__2d\\fold_0\\validation\\hippocampus_332.nii.gz",
+            "reference_file": "D:/nnUNet/dataset/nnUNet_preprocessed\\Dataset004_Hippocampus\\gt_segmentations\\hippocampus_332.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8798629801810619,
+                    "FN": 209,
+                    "FP": 282,
+                    "IoU": 0.7854958497160333,
+                    "TN": 66124,
+                    "TP": 1798,
+                    "n_pred": 2080,
+                    "n_ref": 2007
+                },
+                "2": {
+                    "Dice": 0.8572327044025158,
+                    "FN": 253,
+                    "FP": 201,
+                    "IoU": 0.7501375894331316,
+                    "TN": 66596,
+                    "TP": 1363,
+                    "n_pred": 1564,
+                    "n_ref": 1616
+                }
+            },
+            "prediction_file": "D:/nnUNet/dataset/nnUnet_results\\Dataset004_Hippocampus\\nnUNetTrainer__nnUNetPlans__2d\\fold_0\\validation\\hippocampus_338.nii.gz",
+            "reference_file": "D:/nnUNet/dataset/nnUNet_preprocessed\\Dataset004_Hippocampus\\gt_segmentations\\hippocampus_338.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8401826484018264,
+                    "FN": 205,
+                    "FP": 180,
+                    "IoU": 0.7244094488188977,
+                    "TN": 56403,
+                    "TP": 1012,
+                    "n_pred": 1192,
+                    "n_ref": 1217
+                },
+                "2": {
+                    "Dice": 0.8167397907526156,
+                    "FN": 163,
+                    "FP": 380,
+                    "IoU": 0.6902452937820879,
+                    "TN": 56047,
+                    "TP": 1210,
+                    "n_pred": 1590,
+                    "n_ref": 1373
+                }
+            },
+            "prediction_file": "D:/nnUNet/dataset/nnUnet_results\\Dataset004_Hippocampus\\nnUNetTrainer__nnUNetPlans__2d\\fold_0\\validation\\hippocampus_349.nii.gz",
+            "reference_file": "D:/nnUNet/dataset/nnUNet_preprocessed\\Dataset004_Hippocampus\\gt_segmentations\\hippocampus_349.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8555078683834049,
+                    "FN": 279,
+                    "FP": 125,
+                    "IoU": 0.7475,
+                    "TN": 56710,
+                    "TP": 1196,
+                    "n_pred": 1321,
+                    "n_ref": 1475
+                },
+                "2": {
+                    "Dice": 0.8578828099708644,
+                    "FN": 142,
+                    "FP": 297,
+                    "IoU": 0.7511337868480725,
+                    "TN": 56546,
+                    "TP": 1325,
+                    "n_pred": 1622,
+                    "n_ref": 1467
+                }
+            },
+            "prediction_file": "D:/nnUNet/dataset/nnUnet_results\\Dataset004_Hippocampus\\nnUNetTrainer__nnUNetPlans__2d\\fold_0\\validation\\hippocampus_350.nii.gz",
+            "reference_file": "D:/nnUNet/dataset/nnUNet_preprocessed\\Dataset004_Hippocampus\\gt_segmentations\\hippocampus_350.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8914793227865667,
+                    "FN": 257,
+                    "FP": 134,
+                    "IoU": 0.8042063094641962,
+                    "TN": 65935,
+                    "TP": 1606,
+                    "n_pred": 1740,
+                    "n_ref": 1863
+                },
+                "2": {
+                    "Dice": 0.8857395925597874,
+                    "FN": 133,
+                    "FP": 254,
+                    "IoU": 0.794912559618442,
+                    "TN": 66045,
+                    "TP": 1500,
+                    "n_pred": 1754,
+                    "n_ref": 1633
+                }
+            },
+            "prediction_file": "D:/nnUNet/dataset/nnUnet_results\\Dataset004_Hippocampus\\nnUNetTrainer__nnUNetPlans__2d\\fold_0\\validation\\hippocampus_356.nii.gz",
+            "reference_file": "D:/nnUNet/dataset/nnUNet_preprocessed\\Dataset004_Hippocampus\\gt_segmentations\\hippocampus_356.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7789776817854571,
+                    "FN": 437,
+                    "FP": 177,
+                    "IoU": 0.6379716981132075,
+                    "TN": 57804,
+                    "TP": 1082,
+                    "n_pred": 1259,
+                    "n_ref": 1519
+                },
+                "2": {
+                    "Dice": 0.7841322314049587,
+                    "FN": 182,
+                    "FP": 471,
+                    "IoU": 0.644915715062534,
+                    "TN": 57661,
+                    "TP": 1186,
+                    "n_pred": 1657,
+                    "n_ref": 1368
+                }
+            },
+            "prediction_file": "D:/nnUNet/dataset/nnUnet_results\\Dataset004_Hippocampus\\nnUNetTrainer__nnUNetPlans__2d\\fold_0\\validation\\hippocampus_358.nii.gz",
+            "reference_file": "D:/nnUNet/dataset/nnUNet_preprocessed\\Dataset004_Hippocampus\\gt_segmentations\\hippocampus_358.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8939393939393939,
+                    "FN": 176,
+                    "FP": 286,
+                    "IoU": 0.8082191780821918,
+                    "TN": 68727,
+                    "TP": 1947,
+                    "n_pred": 2233,
+                    "n_ref": 2123
+                },
+                "2": {
+                    "Dice": 0.9042303172737955,
+                    "FN": 215,
+                    "FP": 111,
+                    "IoU": 0.825201072386059,
+                    "TN": 69271,
+                    "TP": 1539,
+                    "n_pred": 1650,
+                    "n_ref": 1754
+                }
+            },
+            "prediction_file": "D:/nnUNet/dataset/nnUnet_results\\Dataset004_Hippocampus\\nnUNetTrainer__nnUNetPlans__2d\\fold_0\\validation\\hippocampus_374.nii.gz",
+            "reference_file": "D:/nnUNet/dataset/nnUNet_preprocessed\\Dataset004_Hippocampus\\gt_segmentations\\hippocampus_374.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9142423475841134,
+                    "FN": 180,
+                    "FP": 159,
+                    "IoU": 0.8420316868592731,
+                    "TN": 57758,
+                    "TP": 1807,
+                    "n_pred": 1966,
+                    "n_ref": 1987
+                },
+                "2": {
+                    "Dice": 0.8902750212645307,
+                    "FN": 257,
+                    "FP": 130,
+                    "IoU": 0.8022483392948391,
+                    "TN": 57947,
+                    "TP": 1570,
+                    "n_pred": 1700,
+                    "n_ref": 1827
+                }
+            },
+            "prediction_file": "D:/nnUNet/dataset/nnUnet_results\\Dataset004_Hippocampus\\nnUNetTrainer__nnUNetPlans__2d\\fold_0\\validation\\hippocampus_394.nii.gz",
+            "reference_file": "D:/nnUNet/dataset/nnUNet_preprocessed\\Dataset004_Hippocampus\\gt_segmentations\\hippocampus_394.nii.gz"
+        }
+    ]
+}
